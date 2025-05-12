@@ -1,0 +1,3 @@
+/*runtime: 
+A runtime is an environment where javascript code executes. Javascript can not run directly on our operating system, it needs an engine to interprete the code to our machine. Javascript can run in browser like chrome/ firefox because they have a built in engine (V8 in chrome). Basically, browser runtime is used for work like front-end when we need to do works within the web pages. In contrast, javascript can also run outside of the browser using node js. it's a runtime environment built in chrome V8 engine. It allows javascript to be used for back-end developing, server-side workings. In addition, browsers have built in DOM API's to manupulate web pages which node js does not have.
+*/
