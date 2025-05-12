@@ -5,6 +5,3 @@ function reverseString(string) {
     }
     return newString;
 };
-let string = "hello";
-let result = reverseString(string);
-console.log(result);
